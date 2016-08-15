@@ -2,7 +2,7 @@
   "name": "redux-data-structures",
   "description": "Proof of Concept to improve performance issues while working with data structures at Redux.",
   "author": "Rodrigo Ortega <rodortcue@gmail.com>",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
