@@ -1,0 +1,6 @@
+{
+  "name": "wrapComponent",
+  "main": "wrapComponent.jsx",
+  "private": true,
+  "version": "1.0.0"
+}
